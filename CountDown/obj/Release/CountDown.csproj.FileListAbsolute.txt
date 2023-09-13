@@ -1,0 +1,10 @@
+C:\Users\android386\source\repos\CountDown\CountDown\bin\Release\CountDown.exe.config
+C:\Users\android386\source\repos\CountDown\CountDown\bin\Release\CountDown.exe
+C:\Users\android386\source\repos\CountDown\CountDown\bin\Release\CountDown.pdb
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.csproj.AssemblyReference.cache
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.CountDownTimer.resources
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.Properties.Resources.resources
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.csproj.GenerateResource.cache
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.exe
+C:\Users\android386\source\repos\CountDown\CountDown\obj\Release\CountDown.pdb
